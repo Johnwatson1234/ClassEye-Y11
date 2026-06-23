@@ -1,0 +1,1 @@
+import{j as s}from"./index-CO5A0dSt.js";import{F as a}from"./FrostedCard-BHJ_aWoU.js";import{V as e}from"./Video-BeSPI-Fb.js";function r({className:r,...t}){return s.jsx("div",{className:r,...t,children:s.jsx(a,{title:"注意力热力图",children:s.jsx(e,{className:"aspect-video w-full",src:"/assets/input-B2UMIeqZ.mp4",autoPlay:!0,controls:!1})})})}export{r as default};

@@ -1,0 +1,1 @@
+import{j as e}from"./index-CO5A0dSt.js";function s({title:s,children:r,className:d,...a}){return e.jsxs("div",{className:`frosted-card ${d}`,flex:"~ col",...a,children:[s&&e.jsx("div",{className:"frosted-card-header",children:s}),e.jsx("div",{className:"frosted-card-body",grow:"",children:r})]})}export{s as F};

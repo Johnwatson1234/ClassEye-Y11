@@ -1,0 +1,1 @@
+import{j as s}from"./index-CO5A0dSt.js";import{V as a}from"./Video-BeSPI-Fb.js";function e({className:e,...o}){return s.jsx("div",{className:e,...o,children:s.jsx(a,{className:"aspect-video w-full",src:"/assets/output-CyypQpVM.mp4",autoPlay:!0,controls:!1})})}export{e as default};
